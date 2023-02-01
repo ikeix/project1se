@@ -1,5 +1,4 @@
 ```cadence
-
 void merge(int arr[], int L, int m, int R, int size)
 {
     int i = L;
